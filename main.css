@@ -15,6 +15,9 @@ p {
 ul,i,a {
     color: #89F735;
 }
+a {
+   color: #ff3300; 
+}
 table {
     border-collapse: collapse;
     border: 2px solid black;
