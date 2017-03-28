@@ -1,0 +1,41 @@
+.caption{
+	color: #79EFF7;	
+}
+
+li {
+    font-size: 20px;
+    color: #B94A48;
+    font-style: italic;
+}
+p {
+    font-family: "Arial", sans-serif;
+    color: #79EFF7;
+}
+
+ul,i,a {
+    color: #89F735;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
+
+td {
+    padding: 5px;
+    padding-right: 10px;
+    border: 1px solid lightgray;
+    color: brown;
+    background-color: lightyellow;
+}
+
+th {
+    padding: 10px;
+    border: 1px solid black;
+    color: darkblue;
+    background-color: lightcyan;
+}
+
+caption {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
